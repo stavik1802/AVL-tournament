@@ -1,0 +1,3 @@
+C:/Users/stavo/CLionProjects/wet2/cmake-build-debug/CMakeFiles/wet2.dir
+C:/Users/stavo/CLionProjects/wet2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/stavo/CLionProjects/wet2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
