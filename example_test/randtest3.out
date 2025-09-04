@@ -1,0 +1,174 @@
+add_team: SUCCESS
+get_highest_ranked_team: SUCCESS, 0
+add_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 6843
+add_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 18852
+add_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 20529
+add_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 27372
+add_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 28660
+add_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 39432
+add_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 40124
+add_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 45856
+add_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 51588
+add_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 57320
+add_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 42911
+add_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 46812
+add_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 50713
+add_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 54614
+add_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 58515
+add_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 79872
+add_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 81855
+add_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 89856
+add_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 91485
+add_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 99840
+add_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 101115
+add_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 105930
+add_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 89723
+add_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 115560
+add_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 120375
+add_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 125190
+add_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 130005
+add_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 134820
+add_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 113129
+add_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 144450
+add_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 149265
+add_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 159744
+add_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 162591
+add_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 169728
+add_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 174720
+add_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 181116
+remove_newest_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 174720
+remove_newest_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 169728
+remove_newest_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 162591
+remove_newest_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 159744
+remove_newest_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 149265
+remove_newest_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 144450
+remove_newest_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 113129
+remove_newest_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 134820
+remove_newest_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 130005
+remove_newest_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 125190
+remove_newest_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 120375
+remove_newest_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 115560
+remove_newest_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 89723
+remove_newest_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 105930
+remove_newest_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 101115
+remove_newest_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 99840
+remove_newest_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 91485
+remove_newest_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 89856
+remove_newest_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 81855
+remove_newest_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 79872
+remove_newest_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 58515
+remove_newest_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 54614
+remove_newest_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 50713
+remove_newest_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 46812
+remove_newest_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 42911
+remove_newest_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 57320
+remove_newest_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 51588
+remove_newest_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 45856
+remove_newest_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 40124
+remove_newest_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 39432
+remove_newest_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 28660
+remove_newest_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 27372
+remove_newest_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 20529
+remove_newest_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 18852
+remove_newest_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 6843
+remove_newest_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 0
+remove_newest_player: FAILURE
+get_highest_ranked_team: SUCCESS, 0
+remove_newest_player: FAILURE
+get_highest_ranked_team: SUCCESS, 0
+remove_newest_player: FAILURE
+get_highest_ranked_team: SUCCESS, 0
+remove_newest_player: FAILURE
+get_highest_ranked_team: SUCCESS, 0
+remove_newest_player: FAILURE
+get_highest_ranked_team: SUCCESS, 0
+remove_newest_player: FAILURE
+get_highest_ranked_team: SUCCESS, 0
+remove_newest_player: FAILURE
+get_highest_ranked_team: SUCCESS, 0
+remove_newest_player: FAILURE
+get_highest_ranked_team: SUCCESS, 0
+remove_newest_player: FAILURE
+get_highest_ranked_team: SUCCESS, 0
+remove_newest_player: FAILURE
+get_highest_ranked_team: SUCCESS, 0
+remove_newest_player: FAILURE
+get_highest_ranked_team: SUCCESS, 0
+remove_newest_player: FAILURE
+get_highest_ranked_team: SUCCESS, 0
+remove_newest_player: FAILURE
+get_highest_ranked_team: SUCCESS, 0
+remove_newest_player: FAILURE
+get_highest_ranked_team: SUCCESS, 0

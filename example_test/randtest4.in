@@ -1,0 +1,94 @@
+add_team 13
+add_team 11
+get_highest_ranked_team
+unite_teams 11 11
+unite_teams 11 12
+unite_teams 11 13
+play_match 13 11
+get_highest_ranked_team
+num_wins_for_team 11
+num_wins_for_team 13
+add_team 13
+add_player 11 1
+get_highest_ranked_team
+add_player 11 1
+get_highest_ranked_team
+add_player 11 1
+get_highest_ranked_team
+add_player 11 3
+get_highest_ranked_team
+add_player 11 3
+get_highest_ranked_team
+add_player 11 3
+get_highest_ranked_team
+add_player 11 2
+get_highest_ranked_team
+add_player 11 2
+get_highest_ranked_team
+add_player 11 2
+get_highest_ranked_team
+play_match 13 11
+get_highest_ranked_team
+unite_teams 11 13
+play_match 13 11
+get_highest_ranked_team
+num_wins_for_team 11
+num_wins_for_team 13
+add_team 13
+add_player 13 1
+add_player 13 2
+add_player 13 3
+play_match 13 11
+get_highest_ranked_team
+num_wins_for_team 11
+num_wins_for_team 13
+unite_teams 11 13
+num_wins_for_team 11
+num_wins_for_team 13
+get_highest_ranked_team
+remove_newest_player 13
+get_highest_ranked_team
+remove_newest_player 13
+get_highest_ranked_team
+remove_newest_player 13
+get_highest_ranked_team
+remove_newest_player 11
+get_highest_ranked_team
+remove_newest_player 11
+get_highest_ranked_team
+remove_newest_player 11
+get_highest_ranked_team
+remove_newest_player 11
+get_highest_ranked_team
+remove_newest_player 11
+get_highest_ranked_team
+remove_newest_player 11
+get_highest_ranked_team
+remove_newest_player 11
+get_highest_ranked_team
+remove_newest_player 11
+get_highest_ranked_team
+remove_newest_player 11
+get_highest_ranked_team
+remove_newest_player 11
+get_highest_ranked_team
+remove_newest_player 11
+get_highest_ranked_team
+remove_newest_player 11
+get_highest_ranked_team
+remove_newest_player 11
+get_highest_ranked_team
+remove_newest_player 11
+get_highest_ranked_team
+remove_newest_player 11
+get_highest_ranked_team
+remove_newest_player 11
+get_highest_ranked_team
+remove_newest_player 11
+get_highest_ranked_team
+remove_newest_player 11
+get_highest_ranked_team
+remove_team 13
+remove_team 11
+remove_team 11
+get_highest_ranked_team

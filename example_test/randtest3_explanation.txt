@@ -1,0 +1,2 @@
+adding and removing a bunch of random players
+calculating the strength after each addition an removal

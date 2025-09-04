@@ -1,0 +1,11 @@
+cases for this test - 
+maxRank for no Teams - should be -1
+trying to add the same team twice
+maxRank for emptyTeams - should be 0
+tournament with only 1 team - shouldnt be possible (on piazza they said they wouldnt check this case but just in case...)
+playing a tournament of 2 teams
+playing a match between to teams
+removing teams that dont exist
+removing teams we already removed
+emptying a team and checking that its rank is 0
+adding a player to the emptied team and checking that it remembers it's previous wins

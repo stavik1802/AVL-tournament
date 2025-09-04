@@ -1,0 +1,649 @@
+add_team 1
+add_player 1 1
+add_team 2
+add_player 2 2
+add_team 3
+add_player 3 3
+add_team 4
+add_player 4 4
+add_team 5
+add_player 5 5
+add_team 6
+add_player 6 6
+add_team 7
+add_player 7 7
+add_team 8
+add_player 8 8
+add_team 9
+add_player 9 9
+add_team 10
+add_player 10 10
+add_team 11
+add_player 11 11
+add_team 12
+add_player 12 12
+add_team 13
+add_player 13 13
+add_team 14
+add_player 14 14
+add_team 15
+add_player 15 15
+add_team 16
+add_player 16 16
+add_team 17
+add_player 17 17
+add_team 18
+add_player 18 18
+add_team 19
+add_player 19 19
+add_team 20
+add_player 20 20
+add_team 21
+add_player 21 21
+add_team 22
+add_player 22 22
+add_team 23
+add_player 23 23
+add_team 24
+add_player 24 24
+add_team 25
+add_player 25 25
+add_team 26
+add_player 26 26
+add_team 27
+add_player 27 27
+add_team 28
+add_player 28 28
+add_team 29
+add_player 29 29
+add_team 30
+add_player 30 30
+add_team 31
+add_player 31 31
+add_team 32
+add_player 32 32
+add_team 33
+add_player 33 33
+add_team 34
+add_player 34 34
+add_team 35
+add_player 35 35
+add_team 36
+add_player 36 36
+add_team 37
+add_player 37 37
+add_team 38
+add_player 38 38
+add_team 39
+add_player 39 39
+add_team 40
+add_player 40 40
+add_team 41
+add_player 41 41
+add_team 42
+add_player 42 42
+add_team 43
+add_player 43 43
+add_team 44
+add_player 44 44
+add_team 45
+add_player 45 45
+add_team 46
+add_player 46 46
+add_team 47
+add_player 47 47
+add_team 48
+add_player 48 48
+add_team 49
+add_player 49 49
+add_team 50
+add_player 50 50
+add_team 51
+add_player 51 51
+add_team 52
+add_player 52 52
+add_team 53
+add_player 53 53
+add_team 54
+add_player 54 54
+add_team 55
+add_player 55 55
+add_team 56
+add_player 56 56
+add_team 57
+add_player 57 57
+add_team 58
+add_player 58 58
+add_team 59
+add_player 59 59
+add_team 60
+add_player 60 60
+add_team 61
+add_player 61 61
+add_team 62
+add_player 62 62
+add_team 63
+add_player 63 63
+add_team 64
+add_player 64 64
+add_team 65
+add_player 65 65
+add_team 66
+add_player 66 66
+add_team 67
+add_player 67 67
+add_team 68
+add_player 68 68
+add_team 69
+add_player 69 69
+add_team 70
+add_player 70 70
+add_team 71
+add_player 71 71
+add_team 72
+add_player 72 72
+add_team 73
+add_player 73 73
+add_team 74
+add_player 74 74
+add_team 75
+add_player 75 75
+add_team 76
+add_player 76 76
+add_team 77
+add_player 77 77
+add_team 78
+add_player 78 78
+add_team 79
+add_player 79 79
+add_team 80
+add_player 80 80
+add_team 81
+add_player 81 81
+add_team 82
+add_player 82 82
+add_team 83
+add_player 83 83
+add_team 84
+add_player 84 84
+add_team 85
+add_player 85 85
+add_team 86
+add_player 86 86
+add_team 87
+add_player 87 87
+add_team 88
+add_player 88 88
+add_team 89
+add_player 89 89
+add_team 90
+add_player 90 90
+add_team 91
+add_player 91 91
+add_team 92
+add_player 92 92
+add_team 93
+add_player 93 93
+add_team 94
+add_player 94 94
+add_team 95
+add_player 95 95
+add_team 96
+add_player 96 96
+add_team 97
+add_player 97 97
+add_team 98
+add_player 98 98
+add_team 99
+add_player 99 99
+add_team 100
+add_player 100 100
+play_tournament 1 100
+play_tournament 2 100
+play_tournament 3 100
+play_tournament 4 100
+play_tournament 5 100
+play_tournament 6 100
+play_tournament 7 100
+play_tournament 8 100
+play_tournament 9 100
+play_tournament 10 100
+play_tournament 11 100
+play_tournament 12 100
+play_tournament 13 100
+play_tournament 14 100
+play_tournament 15 100
+play_tournament 16 100
+play_tournament 17 100
+play_tournament 18 100
+play_tournament 19 100
+play_tournament 20 100
+play_tournament 21 100
+play_tournament 22 100
+play_tournament 23 100
+play_tournament 24 100
+play_tournament 25 100
+play_tournament 26 100
+play_tournament 27 100
+play_tournament 28 100
+play_tournament 29 100
+play_tournament 30 100
+play_tournament 31 100
+play_tournament 32 100
+play_tournament 33 100
+play_tournament 34 100
+play_tournament 35 100
+play_tournament 36 100
+play_tournament 37 100
+play_tournament 38 100
+play_tournament 39 100
+play_tournament 40 100
+play_tournament 41 100
+play_tournament 42 100
+play_tournament 43 100
+play_tournament 44 100
+play_tournament 45 100
+play_tournament 46 100
+play_tournament 47 100
+play_tournament 48 100
+play_tournament 49 100
+play_tournament 50 100
+play_tournament 51 100
+play_tournament 52 100
+play_tournament 53 100
+play_tournament 54 100
+play_tournament 55 100
+play_tournament 56 100
+play_tournament 57 100
+play_tournament 58 100
+play_tournament 59 100
+play_tournament 60 100
+play_tournament 61 100
+play_tournament 62 100
+play_tournament 63 100
+play_tournament 64 100
+play_tournament 65 100
+play_tournament 66 100
+play_tournament 67 100
+play_tournament 68 100
+play_tournament 69 100
+play_tournament 70 100
+play_tournament 71 100
+play_tournament 72 100
+play_tournament 73 100
+play_tournament 74 100
+play_tournament 75 100
+play_tournament 76 100
+play_tournament 77 100
+play_tournament 78 100
+play_tournament 79 100
+play_tournament 80 100
+play_tournament 81 100
+play_tournament 82 100
+play_tournament 83 100
+play_tournament 84 100
+play_tournament 85 100
+play_tournament 86 100
+play_tournament 87 100
+play_tournament 88 100
+play_tournament 89 100
+play_tournament 90 100
+play_tournament 91 100
+play_tournament 92 100
+play_tournament 93 100
+play_tournament 94 100
+play_tournament 95 100
+play_tournament 96 100
+play_tournament 97 100
+play_tournament 98 100
+play_tournament 99 100
+play_tournament 100 100
+num_wins_for_team 1
+num_wins_for_team 2
+num_wins_for_team 3
+num_wins_for_team 4
+num_wins_for_team 5
+num_wins_for_team 6
+num_wins_for_team 7
+num_wins_for_team 8
+num_wins_for_team 9
+num_wins_for_team 10
+num_wins_for_team 11
+num_wins_for_team 12
+num_wins_for_team 13
+num_wins_for_team 14
+num_wins_for_team 15
+num_wins_for_team 16
+num_wins_for_team 17
+num_wins_for_team 18
+num_wins_for_team 19
+num_wins_for_team 20
+num_wins_for_team 21
+num_wins_for_team 22
+num_wins_for_team 23
+num_wins_for_team 24
+num_wins_for_team 25
+num_wins_for_team 26
+num_wins_for_team 27
+num_wins_for_team 28
+num_wins_for_team 29
+num_wins_for_team 30
+num_wins_for_team 31
+num_wins_for_team 32
+num_wins_for_team 33
+num_wins_for_team 34
+num_wins_for_team 35
+num_wins_for_team 36
+num_wins_for_team 37
+num_wins_for_team 38
+num_wins_for_team 39
+num_wins_for_team 40
+num_wins_for_team 41
+num_wins_for_team 42
+num_wins_for_team 43
+num_wins_for_team 44
+num_wins_for_team 45
+num_wins_for_team 46
+num_wins_for_team 47
+num_wins_for_team 48
+num_wins_for_team 49
+num_wins_for_team 50
+num_wins_for_team 51
+num_wins_for_team 52
+num_wins_for_team 53
+num_wins_for_team 54
+num_wins_for_team 55
+num_wins_for_team 56
+num_wins_for_team 57
+num_wins_for_team 58
+num_wins_for_team 59
+num_wins_for_team 60
+num_wins_for_team 61
+num_wins_for_team 62
+num_wins_for_team 63
+num_wins_for_team 64
+num_wins_for_team 65
+num_wins_for_team 66
+num_wins_for_team 67
+num_wins_for_team 68
+num_wins_for_team 69
+num_wins_for_team 70
+num_wins_for_team 71
+num_wins_for_team 72
+num_wins_for_team 73
+num_wins_for_team 74
+num_wins_for_team 75
+num_wins_for_team 76
+num_wins_for_team 77
+num_wins_for_team 78
+num_wins_for_team 79
+num_wins_for_team 80
+num_wins_for_team 81
+num_wins_for_team 82
+num_wins_for_team 83
+num_wins_for_team 84
+num_wins_for_team 85
+num_wins_for_team 86
+num_wins_for_team 87
+num_wins_for_team 88
+num_wins_for_team 89
+num_wins_for_team 90
+num_wins_for_team 91
+num_wins_for_team 92
+num_wins_for_team 93
+num_wins_for_team 94
+num_wins_for_team 95
+num_wins_for_team 96
+num_wins_for_team 97
+num_wins_for_team 98
+num_wins_for_team 99
+num_wins_for_team 100
+add_team 101
+add_player 101 101
+add_team 102
+add_player 102 102
+add_team 103
+add_player 103 103
+add_team 104
+add_player 104 104
+add_team 105
+add_player 105 105
+add_team 106
+add_player 106 106
+add_team 107
+add_player 107 107
+add_team 108
+add_player 108 108
+add_team 109
+add_player 109 109
+get_highest_ranked_team
+remove_team 100
+get_highest_ranked_team
+remove_team 99
+get_highest_ranked_team
+remove_team 98
+get_highest_ranked_team
+remove_team 97
+get_highest_ranked_team
+remove_team 96
+get_highest_ranked_team
+remove_team 95
+get_highest_ranked_team
+remove_team 94
+get_highest_ranked_team
+remove_team 93
+get_highest_ranked_team
+remove_team 92
+get_highest_ranked_team
+remove_team 91
+get_highest_ranked_team
+remove_team 90
+get_highest_ranked_team
+remove_team 115
+get_highest_ranked_team
+remove_team 114
+get_highest_ranked_team
+remove_team 113
+get_highest_ranked_team
+remove_team 112
+get_highest_ranked_team
+remove_team 111
+get_highest_ranked_team
+remove_team 110
+get_highest_ranked_team
+remove_team 109
+get_highest_ranked_team
+remove_team 108
+get_highest_ranked_team
+remove_team 107
+get_highest_ranked_team
+remove_team 106
+get_highest_ranked_team
+remove_team 105
+get_highest_ranked_team
+remove_team 104
+get_highest_ranked_team
+remove_team 103
+get_highest_ranked_team
+remove_team 102
+get_highest_ranked_team
+remove_team 101
+get_highest_ranked_team
+remove_team 89
+get_highest_ranked_team
+remove_team 88
+get_highest_ranked_team
+remove_team 87
+get_highest_ranked_team
+remove_team 86
+get_highest_ranked_team
+remove_team 85
+get_highest_ranked_team
+remove_team 84
+get_highest_ranked_team
+remove_team 83
+get_highest_ranked_team
+remove_team 82
+get_highest_ranked_team
+remove_team 81
+get_highest_ranked_team
+remove_team 80
+get_highest_ranked_team
+remove_team 79
+get_highest_ranked_team
+remove_team 78
+get_highest_ranked_team
+remove_team 77
+get_highest_ranked_team
+remove_team 76
+get_highest_ranked_team
+remove_team 75
+get_highest_ranked_team
+remove_team 74
+get_highest_ranked_team
+remove_team 73
+get_highest_ranked_team
+remove_team 72
+get_highest_ranked_team
+remove_team 71
+get_highest_ranked_team
+remove_team 70
+get_highest_ranked_team
+remove_team 69
+get_highest_ranked_team
+remove_team 68
+get_highest_ranked_team
+remove_team 67
+get_highest_ranked_team
+remove_team 66
+get_highest_ranked_team
+remove_team 65
+get_highest_ranked_team
+remove_team 64
+get_highest_ranked_team
+remove_team 63
+get_highest_ranked_team
+remove_team 62
+get_highest_ranked_team
+remove_team 61
+get_highest_ranked_team
+remove_team 60
+get_highest_ranked_team
+remove_team 59
+get_highest_ranked_team
+remove_team 58
+get_highest_ranked_team
+remove_team 57
+get_highest_ranked_team
+remove_team 56
+get_highest_ranked_team
+remove_team 55
+get_highest_ranked_team
+remove_team 54
+get_highest_ranked_team
+remove_team 53
+get_highest_ranked_team
+remove_team 52
+get_highest_ranked_team
+remove_team 51
+get_highest_ranked_team
+remove_team 50
+get_highest_ranked_team
+remove_team 49
+get_highest_ranked_team
+remove_team 48
+get_highest_ranked_team
+remove_team 47
+get_highest_ranked_team
+remove_team 46
+get_highest_ranked_team
+remove_team 45
+get_highest_ranked_team
+remove_team 44
+get_highest_ranked_team
+remove_team 43
+get_highest_ranked_team
+remove_team 42
+get_highest_ranked_team
+remove_team 41
+get_highest_ranked_team
+remove_team 40
+get_highest_ranked_team
+remove_team 39
+get_highest_ranked_team
+remove_team 38
+get_highest_ranked_team
+remove_team 37
+get_highest_ranked_team
+remove_team 36
+get_highest_ranked_team
+remove_team 35
+get_highest_ranked_team
+remove_team 34
+get_highest_ranked_team
+remove_team 33
+get_highest_ranked_team
+remove_team 32
+get_highest_ranked_team
+remove_team 31
+get_highest_ranked_team
+remove_team 30
+get_highest_ranked_team
+remove_team 29
+get_highest_ranked_team
+remove_team 28
+get_highest_ranked_team
+remove_team 27
+get_highest_ranked_team
+remove_team 26
+get_highest_ranked_team
+remove_team 25
+get_highest_ranked_team
+remove_team 24
+get_highest_ranked_team
+remove_team 23
+get_highest_ranked_team
+remove_team 22
+get_highest_ranked_team
+remove_team 21
+get_highest_ranked_team
+remove_team 20
+get_highest_ranked_team
+remove_team 19
+get_highest_ranked_team
+remove_team 18
+get_highest_ranked_team
+remove_team 17
+get_highest_ranked_team
+remove_team 16
+get_highest_ranked_team
+remove_team 15
+get_highest_ranked_team
+remove_team 14
+get_highest_ranked_team
+remove_team 13
+get_highest_ranked_team
+remove_team 12
+get_highest_ranked_team
+remove_team 11
+get_highest_ranked_team
+remove_team 10
+get_highest_ranked_team
+remove_team 9
+get_highest_ranked_team
+remove_team 8
+get_highest_ranked_team
+remove_team 7
+get_highest_ranked_team
+remove_team 6
+get_highest_ranked_team
+remove_team 5
+get_highest_ranked_team
+remove_team 4
+get_highest_ranked_team
+remove_team 3
+get_highest_ranked_team
+remove_team 2
+get_highest_ranked_team
+remove_team 1
+get_highest_ranked_team

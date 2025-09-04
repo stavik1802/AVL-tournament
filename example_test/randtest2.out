@@ -1,0 +1,63 @@
+add_team: SUCCESS
+add_team: SUCCESS
+add_team: SUCCESS
+add_team: SUCCESS
+add_team: SUCCESS
+add_team: SUCCESS
+add_team: SUCCESS
+add_team: SUCCESS
+add_player: SUCCESS
+add_player: SUCCESS
+add_player: SUCCESS
+add_player: SUCCESS
+add_player: SUCCESS
+add_player: SUCCESS
+add_player: SUCCESS
+add_player: SUCCESS
+add_player: SUCCESS
+add_player: SUCCESS
+add_player: SUCCESS
+add_player: SUCCESS
+add_player: SUCCESS
+add_player: SUCCESS
+add_player: SUCCESS
+add_player: SUCCESS
+add_player: SUCCESS
+add_player: SUCCESS
+add_player: SUCCESS
+add_player: SUCCESS
+add_player: SUCCESS
+add_player: SUCCESS
+add_player: SUCCESS
+add_player: SUCCESS
+add_player: SUCCESS
+add_player: SUCCESS
+add_player: SUCCESS
+add_player: SUCCESS
+add_player: SUCCESS
+add_player: SUCCESS
+add_player: SUCCESS
+add_player: SUCCESS
+add_player: SUCCESS
+add_player: SUCCESS
+add_player: SUCCESS
+add_player: SUCCESS
+play_tournament: SUCCESS, 8
+get_highest_ranked_team: SUCCESS, 43
+remove_team: SUCCESS
+get_highest_ranked_team: SUCCESS, 30
+remove_team: SUCCESS
+get_highest_ranked_team: SUCCESS, 25
+remove_team: SUCCESS
+get_highest_ranked_team: SUCCESS, 16
+remove_team: SUCCESS
+get_highest_ranked_team: SUCCESS, 12
+remove_team: SUCCESS
+get_highest_ranked_team: SUCCESS, 6
+remove_team: SUCCESS
+get_highest_ranked_team: SUCCESS, 4
+remove_team: SUCCESS
+get_highest_ranked_team: SUCCESS, 1
+remove_team: SUCCESS
+get_highest_ranked_team: SUCCESS, -1
+remove_team: FAILURE

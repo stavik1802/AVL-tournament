@@ -1,0 +1,6 @@
+unite test - 
+uniting empty teams
+uniting empty team with non empty team
+uniting non empty team with empty team
+uninting 2 full teams
+checking that players are removed in the correct order (1st from team 1 and 2nd from team 2)
