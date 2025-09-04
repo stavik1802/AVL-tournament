@@ -1,0 +1,27 @@
+# Olympics Tournament Management System - Requirements
+
+## Build Requirements
+- CMake >= 3.20
+- C++11 compatible compiler
+  - GCC >= 4.8
+  - Clang >= 3.3
+  - MSVC >= 2015
+
+## Development Requirements
+- Git (for version control)
+- A text editor or IDE (CLion, Visual Studio, VSCode, etc.)
+
+## Optional Tools
+- Valgrind (for memory leak detection on Linux)
+- GDB/LLDB (for debugging)
+- Make (if not using CMake directly)
+
+## System Requirements
+- Windows 10/11, macOS 10.14+, or Linux (Ubuntu 18.04+)
+- At least 4GB RAM
+- 100MB free disk space
+
+## Notes
+- This is a C++ project that uses CMake for build configuration
+- No external libraries are required beyond standard C++11
+- The project is designed to be cross-platform compatible
