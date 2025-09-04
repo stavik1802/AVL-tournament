@@ -88,12 +88,3 @@ add_player 2 150
 play_match 1 2
 get_highest_ranked_team
 ```
-
-## Course Information
-- **Course**: 234218 Data Structures 1
-- **Semester**: 2024A (Winter)
-- **Assignment**: Wet Exercise #2
-- **Institution**: Technion - Israel Institute of Technology
-
-## Author
-Student submission for Data Structures 1 course assignment.
